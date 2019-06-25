@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="earth" max_length="40" name="x_363266_sample_earth" type="collection">
+        <element label="color" max_length="40" name="color" type="string"/>
+        <element label="position" max_length="40" name="position" type="string"/>
+    </element>
+</database>
